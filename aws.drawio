@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T02:41:49.279Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ONf0U7VSMNrOQ-uSFnBd" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T02:43:46.837Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aCgfxnha2M52RtVxlgAb" version="17.4.6" type="github">
   <diagram id="qmI6LUlu0K6wFWTq1jUT" name="Page-1">
-    <mxGraphModel dx="1955" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,9 @@
           <mxGeometry x="0.1325" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wXUvmhFlW6K3RGWHzzFr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;fontColor=#10739E;" edge="1" parent="1" source="PTJRQVvbIerqqaXg6TyO-2" target="wXUvmhFlW6K3RGWHzzFr-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PTJRQVvbIerqqaXg6TyO-2" value="AWS Cognito &lt;br&gt;Idenity Broker" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="248.71" width="76.5" height="93" as="geometry" />
@@ -103,19 +106,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wXUvmhFlW6K3RGWHzzFr-35" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#10739E;" vertex="1" parent="1">
-          <mxGeometry x="570" y="640" width="460" height="160" as="geometry" />
+          <mxGeometry x="680" y="640" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wXUvmhFlW6K3RGWHzzFr-34" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;labelBackgroundColor=none;fontColor=#10739E;" vertex="1" parent="1">
-          <mxGeometry x="550" y="630" width="50" height="46" as="geometry" />
+          <mxGeometry x="670" y="624" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="wXUvmhFlW6K3RGWHzzFr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#10739E;" edge="1" parent="1" source="wXUvmhFlW6K3RGWHzzFr-36" target="wXUvmhFlW6K3RGWHzzFr-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wXUvmhFlW6K3RGWHzzFr-36" value="THE -- Forest Client data" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;labelBackgroundColor=none;fontSize=15;fontColor=#10739E;" vertex="1" parent="1">
-          <mxGeometry x="80" y="670" width="100" height="100" as="geometry" />
+          <mxGeometry x="340" y="670" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wXUvmhFlW6K3RGWHzzFr-37" value="ForestlClient API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;labelBackgroundColor=none;fontSize=15;fontColor=#10739E;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="620" y="690" width="50" height="50" as="geometry" />
+          <mxGeometry x="740" y="690" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wXUvmhFlW6K3RGWHzzFr-39" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;labelBackgroundColor=none;fontColor=#10739E;" vertex="1" parent="1">
           <mxGeometry x="135" y="448" width="65" height="52" as="geometry" />
